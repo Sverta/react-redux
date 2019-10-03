@@ -1,0 +1,10 @@
+.containerBox {
+    max-height: 500px;
+    overflow-y: scroll;
+    margin: 25px auto; 
+}
+.pushBtn {
+    margin: auto;
+    text-align: right;
+    padding-top: 26px;
+}
